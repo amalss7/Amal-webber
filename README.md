@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AMAL WEBBER</h1>
 <h3 align="center">I am a Technology Enthusiastic<⁄> , I done cracy things come up in my mind "self learning "</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <a href="https://twitter.com/amalss14861708" target="blank"><img src="https://img.shields.io/twitter/follow/amalss14861708?logo=twitter&style=for-the-badge" alt="amalss14861708" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Amalss__" target="blank"><img src="https://img.shields.io/twitter/follow/amalss14861708?logo=twitter&style=for-the-badge" alt="amalss14861708" /></a> </p>
 
 - 🌱 I’m currently learning **backend (using djanjo), react framework**
 
